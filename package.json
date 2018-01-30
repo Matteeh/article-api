@@ -1,0 +1,23 @@
+{
+  "name": "article-api",
+  "version": "1.0.0",
+  "description": "RESTful API for articles and blog posts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matteeh/article-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matteeh/article-api/issues"
+  },
+  "homepage": "https://github.com/Matteeh/article-api#readme",
+  "dependencies": {
+    "koa": "^2.4.1"
+  }
+}
